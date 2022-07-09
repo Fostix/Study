@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2458f29-fecd-464f-984b-bd4aaa8c47ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPLessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex001Static/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex001Static/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Gnome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Worgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Healers/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Healers/Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Healers/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Healers/Shaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Warriors/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Warriors/Paladin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Warriors/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/God.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Healers/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Healers/Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Healers/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Healers/Shaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Warriors/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Warriors/Paladin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Warriors/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Applications/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Document/TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Format/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Format/Md.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Format/TextFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Format/Txt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Interface/Saveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex000/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex000/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex001/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex001/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Beans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/AgeComporator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Beans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex001/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/MultiParameterized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/ParameterizedWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/AudioContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/VideoContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/AudioContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/VideoContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/AudioContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/VideoContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/AudioContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/VideoContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex001_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Gb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Olympiad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Program.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lesson03/Program.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BNkKwiCl3EH3FtlSidaCsxWEMe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/moreCodes/GitHub/Java/OOPLessons/src/Lesson03/Ex004/V4",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lesson03.Ex005" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V4" />
+      <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V3" />
+      <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V2" />
+      <recent name="D:\GitHub\Java\OOPLessons\src\Lesson02\Ex003" />
+      <recent name="D:\GitHub\Java\OOPLessons\src\Lesson01\Ex008SaveFormatFile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\Java\OOPLessons\src\Lesson01\Ex007" />
+      <recent name="D:\GitHub\Java\OOPLessons\src\Lesson01\Ex005" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lesson01.Ex007" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson03.Ex004.V2" />
+      <recent name="Lesson02.Ex003" />
+      <recent name="Lesson02.Ex002" />
+      <recent name="Lesson01.Ex008SaveFormatFile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lesson02.Ex006.Program">
+    <configuration name="Ex001_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex005.Ex001_Game" />
+      <module name="OOPLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson03.Ex005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson02.Ex006.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson02.Ex006.Program" />
+      <module name="OOPLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson02.Ex006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson03.Ex004.V2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex004.V2.Program" />
+      <module name="OOPLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson03.Ex004.V2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson03.Ex004.V3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex004.V3.Program" />
+      <module name="OOPLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson03.Ex004.V3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex004.V4.Program" />
+      <module name="OOPLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson03.Ex004.V4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lesson02.Ex006.Program" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Ex001_Game" />
+        <item itemvalue="Application.Lesson03.Ex004.V3.Program" />
+        <item itemvalue="Application.Lesson03.Ex004.V2.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2458f29-fecd-464f-984b-bd4aaa8c47ed" name="Changes" comment="" />
+      <created>1656753870622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656753870622</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson01/Ex005/Program.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson02/Ex002/Program.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson02/Ex006/Program.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson03/Ex004/V4/Program.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
