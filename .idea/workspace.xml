@@ -4,143 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2458f29-fecd-464f-984b-bd4aaa8c47ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPLessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex001Static/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex001Static/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/BaseHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Druid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Magician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Priest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/BaseHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Druid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Magician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Priest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/BaseHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Druid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Magician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Priest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Dwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Gnome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Worgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/BaseHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/Druid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/Dwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/class.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/BaseHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/Druid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/Dwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/class.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/class.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Healers/Druid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Healers/Healer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Healers/Priest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Healers/Shaman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Warriors/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Warriors/Paladin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v1/Warriors/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/God.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Healers/Druid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Healers/Healer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Healers/Priest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Healers/Shaman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Warriors/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Warriors/Paladin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Warriors/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Applications/Notepad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Document/TextDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Format/Doc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Format/Md.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Format/TextFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Format/Txt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Interface/Saveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex000/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex000/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex001/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex001/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Beans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/AgeComporator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Beans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex001/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/MultiParameterized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/ParameterizedWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/AudioContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/VideoContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/AudioContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/VideoContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/AudioContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/VideoContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/AudioContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/VideoContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex001_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Gb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Middle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Olympiad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Program.java" afterDir="false" />
-    </list>
+    <list default="true" id="f2458f29-fecd-464f-984b-bd4aaa8c47ed" name="Changes" comment="lesson 4 try work method foreach" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -293,6 +157,35 @@
       <option name="presentableId" value="Default" />
       <updated>1656753870622</updated>
     </task>
+    <task id="LOCAL-00001" summary="lesson 4 try work method foreach">
+      <created>1657389925558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657389925558</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson 4 try work method foreach">
+      <created>1657389983178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657389983178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 4 try work method foreach">
+      <created>1657389993387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657389993387</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 4 try work method foreach">
+      <created>1657390019041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657390019041</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +198,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 4 try work method foreach" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 try work method foreach" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
