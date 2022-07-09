@@ -33,25 +33,25 @@ public class Repository<T extends Content>{ // Для того что бы яв�
         return ds.get(index);
     }
 
-    @Override
-    public Iterator<Content> iterator() {
-        Iterator<Content> iter = new Iterator<Content>() {
-
-            private int index = 0;
-
-            @Override
-            public boolean hasNext() {
-                return index < files.size();
-            }
-
-            @Override
-            public Content next() {
-                return files.get(index++);
-            }
-        };
-
-        return iter;
-    }
+//    @Override
+//    public Iterator<Content> iterator() {
+//        Iterator<Content> iter = new Iterator<Content>() {
+//
+//            private int index = 0;
+//
+//            @Override
+//            public boolean hasNext() {
+//                return index < files.size();
+//            }
+//
+//            @Override
+//            public Content next() {
+//                return files.get(index++);
+//            }
+//        };
+//
+//        return iter;
+//    }
     // реализовать возможность работы с foreach
 
     // merge function try crate
