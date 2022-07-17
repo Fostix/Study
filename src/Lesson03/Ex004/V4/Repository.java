@@ -3,17 +3,19 @@ package Lesson03.Ex004.V4;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.function.Consumer;
 
-public class Repository<T extends Content>{ // Для того что бы явно указать чем можно заполнять репозиторий!!
+
+public class Repository<T extends Content> extends Content{ // Для того что бы явно указать чем можно заполнять репозиторий!!
     // only add extends Content
     // Тип Т должен быть в одной иерархии с типом Content, причём должен находится ниже!! upcast downcast.
-    List<T> ds; // Обобщение листа Content проблема, решается поключение обобщений пример V2.
+    List<T> ds; // Обобщение листа Content проблема, решается подключение обобщений пример V2.
 
     private String name;
     int index;
 
+
     public Repository(String name){
+        super(name);
         this.ds = new ArrayList<>();
         this.name = name;
         index = 0;
@@ -33,25 +35,25 @@ public class Repository<T extends Content>{ // Для того что бы яв�
         return ds.get(index);
     }
 
-//    @Override
-//    public Iterator<Content> iterator() {
-//        Iterator<Content> iter = new Iterator<Content>() {
-//
-//            private int index = 0;
-//
-//            @Override
-//            public boolean hasNext() {
-//                return index < files.size();
-//            }
-//
-//            @Override
-//            public Content next() {
-//                return files.get(index++);
-//            }
-//        };
-//
-//        return iter;
-//    }
+    public Iterator<Content> iterator() {
+        Iterator<Content> iter = new Iterator<Content>() {
+
+            private int index = 0;
+            @Override
+            public boolean hasNext() {
+                return index < ds.size();
+            }
+
+            @Override
+            public Content next() {
+                return ds.get(index++);
+            }
+        };
+        return iter;
+    }
+
+
+
     // реализовать возможность работы с foreach
 
     // merge function try crate

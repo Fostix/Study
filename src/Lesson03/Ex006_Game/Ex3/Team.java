@@ -1,11 +1,11 @@
-package Lesson03.Ex005;
+package Lesson03.Ex006_Game.Ex3;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Team {
+public class Team<T extends Programmer> {
     private String name;
-    private List<Programmer> programmers;
+    private List<T> programmers;
 
     public Team(String name) {
         this.name = name;
@@ -16,12 +16,12 @@ public class Team {
         return name;
     }
 
-    public void add(Programmer p) {
+    public void Add(T p) {
         programmers.add(p);
     }
 
     @Override
     public String toString() {
-        return String.format("%s: %s", name, programmers);
+        return String.format("s: %s", name, programmers);
     }
 }

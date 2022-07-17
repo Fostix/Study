@@ -27,5 +27,4 @@ public class Repository {
         return ds.get(index);
     }
 
-    // реализовать возможность работы с foreach
 }

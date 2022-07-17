@@ -15,4 +15,11 @@ public class ParameterizedWorker<E> { // E Наперёд неизвестный
         this.age = age;
         this.salary = salary;
     }
+    public String getId() {
+        return String.format("%s", id);
+    }
+
+    public String fullName() {
+        return String.format("%s %s", firstName, lastName);
+    }
 }

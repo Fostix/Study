@@ -4,7 +4,90 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2458f29-fecd-464f-984b-bd4aaa8c47ed" name="Changes" comment="lesson 4 try work method foreach" />
+    <list default="true" id="f2458f29-fecd-464f-984b-bd4aaa8c47ed" name="Changes" comment="try make foreach">
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/ParameterizedWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/AudioContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/VideoContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex002_MultiPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex003_GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex004_GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Gb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Intern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Junior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Gb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Intern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Junior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Olympiad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Gb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Intern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Junior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Olympiad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/CalcModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/SumModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/creattePNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/Infrastructure/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/Models/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/NewConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Ex00/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Ex01/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Ex02/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Ex03/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex001/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex001/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex002/MultiParameterized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/MultiParameterized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex002/ParameterizedWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/ParameterizedWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex002/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex003/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/AudioContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/AudioContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Content.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/VideoContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/VideoContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex001_Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Gb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Middle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Olympiad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Olympiad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Program.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +105,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Lesson03/Program.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Programmer.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,12 +122,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/moreCodes/GitHub/Java/OOPLessons/src/Lesson03/Ex004/V4",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/moreCodes/GitHub/Java/OOPLessons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -52,11 +140,11 @@
       <recent name="Lesson03.Ex005" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V5" />
+      <recent name="$PROJECT_DIR$/src/NoLessonTests/Ex03" />
+      <recent name="$PROJECT_DIR$/src/NoLessonTests/Ex02" />
+      <recent name="$PROJECT_DIR$/src/NoLessonTests/Ex01" />
       <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V4" />
-      <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V3" />
-      <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V2" />
-      <recent name="D:\GitHub\Java\OOPLessons\src\Lesson02\Ex003" />
-      <recent name="D:\GitHub\Java\OOPLessons\src\Lesson01\Ex008SaveFormatFile" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\Java\OOPLessons\src\Lesson01\Ex007" />
@@ -72,9 +160,9 @@
       <recent name="Lesson01.Ex008SaveFormatFile" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson02.Ex006.Program">
-    <configuration name="Ex001_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex005.Ex001_Game" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Ex003_GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex005.Ex003_GenericMethod" />
       <module name="OOPLessons" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson02.Ex006.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson02.Ex006.Program" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex006_Game.Ex2.Game" />
       <module name="OOPLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson02.Ex006.*" />
+          <option name="PATTERN" value="Lesson03.Ex006_Game.Ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson03.Ex004.V2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex004.V2.Program" />
+    <configuration name="Lesson03.Ex006_Game.Ex1.Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex006_Game.Ex1.Game" />
       <module name="OOPLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson03.Ex004.V2.*" />
+          <option name="PATTERN" value="Lesson03.Ex006_Game.Ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson03.Ex004.V3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex004.V3.Program" />
+    <configuration name="Lesson03.Ex006_Game.Ex3.Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex006_Game.Ex3.Game" />
       <module name="OOPLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson03.Ex004.V3.*" />
+          <option name="PATTERN" value="Lesson03.Ex006_Game.Ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +214,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex004.V4.Program" />
+      <option name="MAIN_CLASS_NAME" value="Lesson04.Ex000Calc.Program" />
       <module name="OOPLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson03.Ex004.V4.*" />
+          <option name="PATTERN" value="Lesson04.Ex000Calc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson02.Ex006.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Ex001_Game" />
-        <item itemvalue="Application.Lesson03.Ex004.V3.Program" />
-        <item itemvalue="Application.Lesson03.Ex004.V2.Program" />
+        <item itemvalue="Application.Lesson03.Ex006_Game.Ex3.Game" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.Lesson03.Ex006_Game.Ex1.Game" />
+        <item itemvalue="Application.Ex003_GenericMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +244,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656753870622</updated>
+      <workItem from="1658063844805" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 4 try work method foreach">
       <created>1657389925558</created>
@@ -185,8 +274,25 @@
       <option name="project" value="LOCAL" />
       <updated>1657390019041</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson 4 try work method foreach">
+      <created>1657390064175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657390064175</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson 4 try work method foreach">
+      <created>1657390077675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657390077675</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -200,6 +306,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 4 try work method foreach AAAAAAAA" />
     <MESSAGE value="lesson 4 try work method foreach" />
     <option name="LAST_COMMIT_MESSAGE" value="lesson 4 try work method foreach" />
   </component>
@@ -217,14 +324,29 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson02/Ex006/Program.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/src/Lesson01/Ex006/Program.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson03/Ex004/V4/Program.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/src/Lesson01/Ex000Counter/Program.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson03/Ex003/Program.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson02/Ex006/Program.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson04/Ex000Calc/Program.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

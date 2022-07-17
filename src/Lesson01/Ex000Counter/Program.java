@@ -9,7 +9,7 @@ public class Program {
 
         f1.printCount();
 
-        //Foo.count=123000;
+        Foo.count=123000;
 
         Foo f2 = new Foo();
         f2.value=222;

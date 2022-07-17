@@ -5,7 +5,7 @@ public class Program {
     public static void main(String[] args) {
         Repository<AudioContent> audioStorage = new Repository("audioStorage");
         audioStorage.add(new AudioContent("track_001.mp3"));
-        audioStorage.add(new AudioContent("03 Дорожка 03.цьф"));
+        audioStorage.add(new AudioContent("03 Дорожка 03.wma"));
 
         for (int index = 0; index < audioStorage.count(); index++) {
             System.out.println(audioStorage.get(index));
@@ -48,7 +48,7 @@ public class Program {
 
 //        Repository audioStorage = new Repository("audioStorage");
 //        audioStorage.add(new AudioContent("track_001.mp3"));
-//        audioStorage.add(new AudioContent("03 Дорожка 03.цьф"));
+//        audioStorage.add(new AudioContent("03 Дорожка 03.wav"));
 //
 //        for (int index = 0; index < audioStorage.count(); index++) {
 //            System.out.println(audioStorage.get(index));

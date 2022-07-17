@@ -4,7 +4,7 @@ public class Program {
     public static void main(String[] args) {
         Repository audioStorage = new Repository("audioStorage");
         audioStorage.add(new AudioContent("track_001.mp3"));
-        audioStorage.add(new AudioContent("03 Дорожка 03.цьф"));
+        audioStorage.add(new AudioContent("03 Дорожка 03.wma"));
 
         for (int index = 0; index < audioStorage.count(); index++) {
             System.out.println(audioStorage.get(index));
@@ -19,8 +19,18 @@ public class Program {
         }
 
         //#region problem
+        System.out.println("------------------------");
         audioStorage.add(new VideoContent("Приключение приключенцев.mp4"));
         videoStorage.add(new AudioContent("Музыкальная музыка.wav"));
+
+        for (int index = 0; index < videoStorage.count(); index++) {
+            System.out.println(videoStorage.get(index));
+        }
+        System.out.println("--------------------------");
+        for (int index = 0; index < audioStorage.count(); index++) {
+            System.out.println(audioStorage.get(index));
+        }
+
         //#endregion
     }
 }

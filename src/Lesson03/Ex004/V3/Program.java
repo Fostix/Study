@@ -5,7 +5,7 @@ public class Program {
     public static void main(String[] args) {
         Repository<AudioContent> audioStorage = new Repository("audioStorage");
         audioStorage.add(new AudioContent("track_001.mp3"));
-        audioStorage.add(new AudioContent("03 Дорожка 03.цьф"));
+        audioStorage.add(new AudioContent("03 Дорожка 03.wav"));
 
         for (int index = 0; index < audioStorage.count(); index++) {
             System.out.println(audioStorage.get(index));
@@ -24,9 +24,9 @@ public class Program {
 //
 //        }
 
-        //#region problem
-        // audioStorage.add(new VideoContent("Приключение приключенцев.mp4"));
-        // videoStorage.add(new AudioContent("Музыкальная музыка.wav"));
+        //#region проблема решена
+//         audioStorage.add(new VideoContent("Приключение приключенцев.mp4"));
+//         videoStorage.add(new AudioContent("Музыкальная музыка.wav"));
         //#endregion
 
 
@@ -36,7 +36,7 @@ public class Program {
 //        //#endregion
 
 
-        //#region оказывается НЕТ
+        //#region проблема решена
 //        Repository<String> stringRepository = new Repository<>("stringRepository");
 //        stringRepository.add("Привет");
 //        stringRepository.add("Как");
@@ -53,7 +53,7 @@ public class Program {
 
 //        Repository audioStorage = new Repository("audioStorage");
 //        audioStorage.add(new AudioContent("track_001.mp3"));
-//        audioStorage.add(new AudioContent("03 Дорожка 03.цьф"));
+//        audioStorage.add(new AudioContent("03 Дорожка 03.wav"));
 //
 //        for (int index = 0; index < audioStorage.count(); index++) {
 //            System.out.println(audioStorage.get(index));

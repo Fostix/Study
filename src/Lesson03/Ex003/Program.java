@@ -16,11 +16,14 @@ public class Program {
         // На сложных или собственных типах идея такая же
         // только придётся делать перегрузку некоторых методов (hashCode, equals????)
 
-       Integer t =  Methods.<Integer>getElementFromUCollection(data, 1);
-       Integer t1 =  Methods.getElementFromUCollection(data, 1);
+
+        Integer t = Methods.<Integer>getElementFromUCollection(data, 1);
+        Integer t1 = Methods.getElementFromUCollection(data, 0);
         System.out.println(t);
         System.out.println(t1);
 
-
+        List<String > dataStr = new ArrayList<>(Arrays.asList("1", "2", "3", "4"));
+        String t2 = Methods.getElementFromUCollection(dataStr, 2);
+        System.out.println(t2);
     }
 }

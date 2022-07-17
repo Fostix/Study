@@ -1,30 +1,28 @@
 package Lesson03.Ex003;
 
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class Methods {
-    //#region для каждого типа придётся создавать свой метод, но можно этого избежать с помощью обобщений.
-    public static Integer getElementFromIntegerCollection(List<Integer> col, int index) {
-        return col.get(index);
-    }
-
-    public static String getElementFromStringCollection(List<String> col, int index) {
-        return col.get(index);
-    }
-
-    public static Double getElementFromDoubleCollection(List<Double> col, int index) {
-        return col.get(index);
-    }
+    //#region для каждого типа придётся создавать свой метод, но можно этого избежать с помощью обобщений!!
+//    public static Integer getElementFromIntegerCollection(List<Integer> col, int index) {
+//        return col.get(index);
+//    }
+//
+//    public static String getElementFromStringCollection(List<String> col, int index) {
+//        return col.get(index);
+//    }
+//
+//    public static Double getElementFromDoubleCollection(List<Double> col, int index) {
+//        return col.get(index);
+//    }
     //#endregion
 
 
-    //#start
+    //#region
     public static <U> U getElementFromUCollection(List<U> col, int index) { //good
         return col.get(index);
     }
-//    public static <U> String getElementFromUCollection(List<U> col, int index) { //good
+//    public static <U> String getElementFromUCollection(List<U> col, int index) {
 //        return col.get(index);
 //    } Не указывать конкретный тип
     //#endregion

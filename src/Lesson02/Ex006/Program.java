@@ -7,6 +7,8 @@ public class Program {
         latte.addComponent(new Water("вода"));
         latte.addComponent(new Water("вода"));
         latte.addComponent(new Water("вода"));
+        Beverage s = new Coffee();
+        System.out.println(s);
 
         for(var ingredient : latte) {
             System.err.println(ingredient);

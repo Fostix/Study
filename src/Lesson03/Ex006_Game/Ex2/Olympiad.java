@@ -1,13 +1,12 @@
-package Lesson03.Ex005;
+package Lesson03.Ex006_Game.Ex2;
 
 import java.util.Random;
 
-public class Olympiad {
-
-    Team team1, team2;
+public class Olympiad<T> {
+    Team<T> team1, team2;
     Random r = new Random();
 
-    public Olympiad(Team t1, Team t2) {
+    public Olympiad(Team<T> t1, Team<T> t2) {
         team1 = t1;
         team2 = t2;
     }
