@@ -19,7 +19,7 @@ public class Program {
             System.out.println(videoStorage.get(index));
         }
 
-        // реализовать возможность работы с foreach
+//         реализовать возможность работы с foreach
 //        for (Content string : videoStorage) {
 //
 //        }

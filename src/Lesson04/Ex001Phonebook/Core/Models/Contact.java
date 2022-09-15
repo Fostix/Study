@@ -19,8 +19,10 @@ public class Contact implements Comparable<Contact>{ // Модель не в к�
     }
 
 
+    // Добавить возможность создания объектов с большим количеством параметров.
     @Override
     public int compareTo(Contact o) {
+        // ???...
         return 0;
     }
 
@@ -31,4 +33,5 @@ public class Contact implements Comparable<Contact>{ // Модель не в к�
                 && this.lastName == t.lastName
                 ;
     }
+
 }

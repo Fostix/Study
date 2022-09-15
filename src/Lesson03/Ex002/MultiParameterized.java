@@ -12,20 +12,20 @@ public class MultiParameterized<E1, E2, E3> {
         this.value3 = e3;
     }
 
-//    @Override
-//    public String toString() {
-//        return String.format("E1 type: %s E2 type: %s E3 type: %s ",
-//                this.value1, this.value2, this.value3
-//        );
-//    }
-
-
     @Override
     public String toString() {
         return String.format("E1 type: %s E2 type: %s E3 type: %s ",
-                value1.getClass().getSimpleName(),
-                value2.getClass().getSimpleName(),
-                value3.getClass().getSimpleName()
+                this.value1, this.value2, this.value3
         );
     }
+
+
+//    @Override
+//    public String toString() {
+//        return String.format("E1 type: %s E2 type: %s E3 type: %s ",
+//                value1.getClass().getSimpleName(),
+//                value2.getClass().getSimpleName(),
+//                value3.getClass().getSimpleName()
+//        );
+//    }
 }

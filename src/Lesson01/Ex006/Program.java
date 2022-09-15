@@ -11,5 +11,7 @@ public class  Program {
 
         System.out.println("\nBaseHero dw3 = new Dwarf();");
         BaseHero dw3 = new Dwarf();
-    }    
+
+
+    }
 }

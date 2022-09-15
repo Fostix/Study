@@ -9,7 +9,11 @@ public class  Program {
         System.out.println("\nDruid dw2 = new Dwarf();");
         Druid dw2 = new Dwarf();
 
+
         System.out.println("\nBaseHero dw3 = new Dwarf();");
         BaseHero dw3 = new Dwarf();
-    }    
+        System.out.println();
+
+
+    }
 }

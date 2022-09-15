@@ -10,7 +10,6 @@ public class Coffee extends Beverage{
 
             private int index = 0;
 
-
             @Override
             public boolean hasNext() {
                 return index < components.size();

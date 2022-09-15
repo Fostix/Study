@@ -16,6 +16,7 @@ public class Program {
         System.out.println(f2.value + " f2 value");
         // System.out.println(f2);
         f2.printCount();
+        System.out.println(f2.printCount());
         Foo f3 = new Foo();
         f3.value=333;
         System.out.println(f3.value + " f3 value");

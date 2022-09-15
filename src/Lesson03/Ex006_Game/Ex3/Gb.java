@@ -5,11 +5,11 @@ public class Gb {
         return new Intern();
     }
 
-    public static Middle CreatteMiddle() {
+    public static Middle CreateMiddle() {
         return new Middle();
     }
 
-    public static Principal CreattePrincipal() {
+    public static Principal CreatePrincipal() {
         return new Principal();
     }
 }

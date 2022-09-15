@@ -14,7 +14,7 @@ public class ConsoleView implements View {
     @Override
     public String getFirstName() {
         System.out.printf("FirstName: ");
-        return in.nextInt();
+        return in.nextLine();
     }
 
     @Override

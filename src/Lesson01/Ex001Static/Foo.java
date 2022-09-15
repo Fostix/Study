@@ -10,7 +10,7 @@ class Doo extends Foo {
 public class Foo {
     public Integer value;
 
-    protected static Integer count; // provate.
+    protected static Integer count; // private.
 
     public static Integer getCount() {
         return count;

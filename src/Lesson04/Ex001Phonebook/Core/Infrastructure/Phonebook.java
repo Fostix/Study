@@ -1,6 +1,9 @@
 package Lesson04.Ex001Phonebook.Core.Infrastructure;
 
+import Lesson04.Ex001Phonebook.Core.Models.Contact;
+
 import java.util.ArrayList;
+import java.util.List;
 
 public class Phonebook {
     private List<Contact> contacts;
@@ -9,29 +12,32 @@ public class Phonebook {
         contacts = new ArrayList<Contact>();
     }
 
+    // create
     public boolean add(Contact contact) {
         boolean flag = false;
         if(!contacts.contains(contact)) {
-            contact.add(contact);
+            contacts.add(contact);
             flag = true;
         }
         return flag;
     }
 
+    // read
     public Contact getContact(int index) {
         return contains(index) ? contacts.get(index) : null;
     }
 
-    //update
+    // update
     // Попробовать добавить функционал.
 
+    // delete
     public boolean remove(Contact contact) {
         boolean flag = false;
         if(contacts.indexOf(contact) != -1) {
             contacts.remove(contact);
             flag = true;
         }
-        return false;
+        return flag;
     }
 
     private boolean contains(int index) {

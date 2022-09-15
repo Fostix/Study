@@ -30,7 +30,6 @@ public class Repository<T extends Content> extends Content{ // Для того �
         return ds.size();
     }
 
-
     public T get(Integer index) {
         return ds.get(index);
     }

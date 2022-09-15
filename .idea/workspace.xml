@@ -4,89 +4,158 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2458f29-fecd-464f-984b-bd4aaa8c47ed" name="Changes" comment="try make foreach">
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/ParameterizedWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/AudioContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/VideoContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex002_MultiPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex003_GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex004_GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Gb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Intern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Junior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Middle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Gb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Intern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Junior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Middle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Olympiad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex2/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Gb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Intern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Junior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Middle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Olympiad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/CalcModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/SumModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/creattePNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/Infrastructure/Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/Models/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/ConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/NewConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Ex00/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Ex01/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Ex02/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Ex03/Program.java" afterDir="false" />
+    <list default="true" id="f2458f29-fecd-464f-984b-bd4aaa8c47ed" name="Changes" comment="Written several lessons">
+      <change afterPath="$PROJECT_DIR$/data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex001/PointMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex002/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex002/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex003/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex003/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex004/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex004/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex005/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex005/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex006/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex006/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex007/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex007/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex008Robot/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex008Robot/Robot1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex008Robot/Robot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex008Robot/Robot3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex009BadCode/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex009BadCode/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex009BadCode/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex010/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex010/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex010/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex010/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex010/Teams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex011Polymorphism/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex011Polymorphism/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex011Polymorphism/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex011Polymorphism/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson00/Ex011Polymorphism/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006test/Beans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006test/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006test/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006test/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006test/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006test/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex006test/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/PresenterOfT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/mvp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Client/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Client/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Client/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Core/Infrastructure/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Core/Model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Core/Presenter/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Core/Views/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/CalculateArea/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/CalculateArea/CalculateArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/Exceptions/MathematicsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/Exceptions/UnacceptableValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/Shapes/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/Shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/Shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/Shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/Shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex002Math/Mathematics/Shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/Program0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/Program5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/Program6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/Program7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/Program8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/SwitchCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/program3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoLessonTests/Tests/program4staticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPLessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPLessons.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Foo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex000Counter/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex001Static/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex001Static/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex001Static/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex001Static/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex002/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/BaseHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex002/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Druid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex002/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Magician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex002/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Priest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex002/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex002/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/BaseHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Druid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Magician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Priest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex003abstract/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/BaseHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Druid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Magician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Priest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Dwarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Dwarf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Gnome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Gnome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Worgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex004/alliance/Worgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex005/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex005/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex006/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex006/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Warriors/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson01/Ex007/v2Interface/Warriors/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex000/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex000/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex000/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex000/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex001/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex001/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex001/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex001/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Beans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Beans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Ingredient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/ExBeverage/Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex002/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex002/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex002/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beans.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Ingredient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/ExBeverage/Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex003/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/AgeComporator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/AgeComporator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex004CreateSort/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex005/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex005/Worker3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex006/Beans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Beans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex006/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex006/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex006/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Ingredient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex006/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Milk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex001/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex001/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson02/Ex006/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson02/Ex006/Water.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex002/MultiParameterized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/MultiParameterized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex002/ParameterizedWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/ParameterizedWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex002/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex002/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex003/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex003/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V1/Repository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V2/Repository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V3/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/AudioContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/AudioContent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Content.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/Repository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/VideoContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V4/VideoContent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Ex001_Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Gb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Middle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Olympiad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Olympiad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Principal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Programmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex005/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson03/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/AudioContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/AudioContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Content.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex004/V5/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Gb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex3/Gb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex000Calc/creattePNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/Infrastructure/Phonebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/Infrastructure/Phonebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/Presenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/Presenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/MVP/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/Models/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Core/Models/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/ConsoleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/ConsoleView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +175,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Lesson02/Ex006/Program.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Lesson03/Ex006_Game/Ex1/Programmer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/NoLessonTests/Tests/SwitchCaseTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -118,35 +188,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/moreCodes/GitHub/Java/OOPLessons",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.language"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/albert/Desktop/Java/OOPLessons&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Lesson03.Ex005" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lesson02/Ex006test" />
+      <recent name="$PROJECT_DIR$/src/Lesson00" />
       <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V5" />
       <recent name="$PROJECT_DIR$/src/NoLessonTests/Ex03" />
       <recent name="$PROJECT_DIR$/src/NoLessonTests/Ex02" />
-      <recent name="$PROJECT_DIR$/src/NoLessonTests/Ex01" />
-      <recent name="$PROJECT_DIR$/src/Lesson03/Ex004/V4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="D:\GitHub\Java\OOPLessons\src\Lesson01\Ex007" />
       <recent name="D:\GitHub\Java\OOPLessons\src\Lesson01\Ex005" />
     </key>
@@ -160,13 +232,18 @@
       <recent name="Lesson01.Ex008SaveFormatFile" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Ex003_GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex005.Ex003_GenericMethod" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value=" [" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lesson04.Ex002Math.Client.Program">
+    <configuration name="Lesson01.Ex007.v2Interface.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson01.Ex007.v2Interface.Program" />
       <module name="OOPLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson03.Ex005.*" />
+          <option name="PATTERN" value="Lesson01.Ex007.v2Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,46 +251,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex006_Game.Ex2.Game" />
-      <module name="OOPLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson03.Ex006_Game.Ex2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson03.Ex006_Game.Ex1.Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex006_Game.Ex1.Game" />
-      <module name="OOPLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson03.Ex006_Game.Ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson03.Ex006_Game.Ex3.Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson03.Ex006_Game.Ex3.Game" />
-      <module name="OOPLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson03.Ex006_Game.Ex3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson04.Ex000Calc.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson04.Ex000Calc.Program" />
       <module name="OOPLessons" />
       <extension name="coverage">
@@ -226,13 +264,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson04.Ex001Phonebook.Client.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson04.Ex001Phonebook.Client.Program" />
+      <module name="OOPLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson04.Ex001Phonebook.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson04.Ex002Math.Client.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson04.Ex002Math.Client.Program" />
+      <module name="OOPLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson04.Ex002Math.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson00.Ex011Polymorphism.Program" />
+      <module name="OOPLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson00.Ex011Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson04.Ex002Math.Client.Program" />
+        <item itemvalue="Application.Lesson04.Ex000Calc.Program" />
+        <item itemvalue="Application.Lesson04.Ex001Phonebook.Client.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Lesson03.Ex006_Game.Ex3.Game" />
-        <item itemvalue="Application.Game" />
-        <item itemvalue="Application.Lesson03.Ex006_Game.Ex1.Game" />
-        <item itemvalue="Application.Ex003_GenericMethod" />
+        <item itemvalue="Application.Lesson01.Ex007.v2Interface.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +321,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656753870622</updated>
-      <workItem from="1658063844805" duration="1401000" />
+      <workItem from="1658063844805" duration="3575000" />
+      <workItem from="1658124304917" duration="8166000" />
+      <workItem from="1658251862064" duration="2490000" />
+      <workItem from="1658297889729" duration="2664000" />
+      <workItem from="1658314309205" duration="94000" />
+      <workItem from="1658317139939" duration="5413000" />
+      <workItem from="1658334954676" duration="1567000" />
+      <workItem from="1658380396652" duration="1752000" />
+      <workItem from="1658399836059" duration="2899000" />
+      <workItem from="1658485341266" duration="3624000" />
+      <workItem from="1658556239201" duration="8024000" />
+      <workItem from="1658642641012" duration="8813000" />
+      <workItem from="1658663392076" duration="1843000" />
+      <workItem from="1658726057490" duration="2248000" />
+      <workItem from="1658730413688" duration="2102000" />
+      <workItem from="1658734290884" duration="10971000" />
+      <workItem from="1658817800041" duration="639000" />
+      <workItem from="1658831995899" duration="1026000" />
+      <workItem from="1658902576326" duration="134000" />
+      <workItem from="1658921392550" duration="7990000" />
+      <workItem from="1658941402561" duration="158000" />
+      <workItem from="1658941660563" duration="28000" />
+      <workItem from="1658971317131" duration="1921000" />
+      <workItem from="1658980702564" duration="6000" />
+      <workItem from="1658986775334" duration="4775000" />
+      <workItem from="1659010960573" duration="3518000" />
+      <workItem from="1659068151227" duration="11259000" />
+      <workItem from="1659115410676" duration="395000" />
+      <workItem from="1659156193040" duration="2150000" />
+      <workItem from="1659354259346" duration="5450000" />
+      <workItem from="1659447049785" duration="1618000" />
+      <workItem from="1659540947284" duration="2095000" />
+      <workItem from="1659601703971" duration="599000" />
+      <workItem from="1659687338946" duration="542000" />
+      <workItem from="1659761814376" duration="1524000" />
+      <workItem from="1659797640160" duration="930000" />
+      <workItem from="1659854586956" duration="547000" />
+      <workItem from="1659972070148" duration="8466000" />
+      <workItem from="1660131396826" duration="5802000" />
+      <workItem from="1660182348128" duration="6799000" />
+      <workItem from="1660282793821" duration="3414000" />
+      <workItem from="1660286771644" duration="7860000" />
+      <workItem from="1660915743324" duration="1134000" />
+      <workItem from="1660921354210" duration="663000" />
+      <workItem from="1660976051964" duration="1380000" />
+      <workItem from="1661520170223" duration="816000" />
+      <workItem from="1661530623465" duration="65000" />
+      <workItem from="1661575114936" duration="1216000" />
+      <workItem from="1661613899942" duration="1200000" />
+      <workItem from="1661661583672" duration="4156000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 4 try work method foreach">
       <created>1657389925558</created>
@@ -288,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657390077675</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Written several lessons">
+      <created>1658069437700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658069437700</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,9 +439,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="lesson 4 try work method foreach AAAAAAAA" />
     <MESSAGE value="lesson 4 try work method foreach" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 try work method foreach" />
+    <MESSAGE value="Written several lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Written several lessons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -347,6 +482,46 @@
           <url>file://$PROJECT_DIR$/src/Lesson04/Ex000Calc/Program.java</url>
           <line>4</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson00/Ex008Robot/Program.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson01/Ex008SaveFormatFile/Program.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/Client/Program.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/App.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson04/Ex001Phonebook/UI/App.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson02/Ex006test/Program.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson02/Ex003/Program.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NoLessonTests/Tests/Program.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

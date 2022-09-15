@@ -14,7 +14,5 @@ public class Program {
             System.err.println(ingredient);
         }
         System.out.println(latte.iterator());
-
-
     }
 }

@@ -7,8 +7,9 @@ import Lesson04.Ex001Phonebook.Core.MVP.View;
 import java.util.Scanner;
 
 public class App {
-    public static void ButtonClick() {
-        System.out.print("\033[H\033[J"); // stacko???
+    public void ButtonClick() {
+        // System.out.print("\033[1;1H\033[0J"); // stacko???
+        System.out.print("\r" + ""); // stacko???
         View view = new NewConsoleView(); // ConsoleView можно указать старую консоль
         Presenter presenter = new Presenter(view, Config.pathDb);
         presenter.loadFromFile();
@@ -17,7 +18,8 @@ public class App {
             while (true) {
                 System.out.println(" 1 - prev 2 - next");
                 String key = in.next();
-                System.out.print("\033[H\033[J");
+                // System.out.print("\033[1;1H\033[0J");
+                System.out.print("\r" + "");
                 switch (key) {
                     case "1":
                         presenter.prev();
@@ -32,6 +34,4 @@ public class App {
             }
         }
     }
-
-
 }

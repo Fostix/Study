@@ -3,7 +3,6 @@ package Lesson02.Ex000;
 public class Program {
     public static void main(String[] args) {
         // Foo foo = new Foo(); don't working
-
         Foo foo1 = new Foo() {
             @Override
             public void m1() {
@@ -16,7 +15,6 @@ public class Program {
 
             }
         };
-
 
         foo1.m1();
 
@@ -32,7 +30,7 @@ public class Program {
 
             }
         };
-
         foo2.m1();
+        foo2.m2();
     }
 }
