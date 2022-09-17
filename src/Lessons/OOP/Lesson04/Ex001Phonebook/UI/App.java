@@ -1,8 +1,8 @@
 package Lessons.OOP.Lesson04.Ex001Phonebook.UI;
 
-import Lesson04.Ex001Phonebook.Config;
-import Lesson04.Ex001Phonebook.Core.MVP.Presenter;
-import Lesson04.Ex001Phonebook.Core.MVP.View;
+import Lessons.OOP.Lesson04.Ex001Phonebook.Config;
+import Lessons.OOP.Lesson04.Ex001Phonebook.Core.MVP.Presenter;
+import Lessons.OOP.Lesson04.Ex001Phonebook.Core.MVP.View;
 
 import java.util.Scanner;
 

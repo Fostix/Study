@@ -1,6 +1,6 @@
 package Lessons.OOP.Lesson04.Ex002Math.Mathematics.Shapes;
 
-import Lesson04.Ex002Math.Mathematics.Exceptions.UnacceptableValueException;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Exceptions.UnacceptableValueException;
 
 public class Circle extends Shape {
 

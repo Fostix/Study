@@ -1,7 +1,7 @@
 package Lessons.OOP.Lesson04.Ex001Phonebook.Core.MVP;
 
-import Lesson04.Ex001Phonebook.Core.Infrastructure.Phonebook;
-import Lesson04.Ex001Phonebook.Core.Models.Contact;
+import Lessons.OOP.Lesson04.Ex001Phonebook.Core.Infrastructure.Phonebook;
+import Lessons.OOP.Lesson04.Ex001Phonebook.Core.Models.Contact;
 
 import java.io.*;
 

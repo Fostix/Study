@@ -1,10 +1,10 @@
 package Lessons.OOP.Lesson04.Ex002Math.Client;
 
-import Lesson04.Ex002Math.Mathematics.Exceptions.UnacceptableValueException;
-import Lesson04.Ex002Math.Mathematics.Shapes.Canvas;
-import Lesson04.Ex002Math.Mathematics.Shapes.Circle;
-import Lesson04.Ex002Math.Mathematics.Shapes.Rectangle;
-import Lesson04.Ex002Math.Mathematics.Shapes.Shape;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Exceptions.UnacceptableValueException;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Shapes.Canvas;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Shapes.Circle;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Shapes.Rectangle;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Shapes.Shape;
 
 public class Program {
     public static void main(String[] args) throws UnacceptableValueException {

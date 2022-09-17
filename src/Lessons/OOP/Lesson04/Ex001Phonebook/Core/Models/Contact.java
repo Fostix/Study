@@ -1,6 +1,6 @@
 package Lessons.OOP.Lesson04.Ex001Phonebook.Core.Models;
 
-import Lesson04.Ex001Phonebook.Core.Email.Email;
+import Lessons.OOP.Lesson04.Ex001Phonebook.Core.Email.Email;
 
 import java.time.LocalDate;
 

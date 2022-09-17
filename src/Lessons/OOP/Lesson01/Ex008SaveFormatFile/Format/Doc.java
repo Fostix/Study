@@ -1,6 +1,6 @@
 package Lessons.OOP.Lesson01.Ex008SaveFormatFile.Format;
 
-import Lesson01.Ex008SaveFormatFile.Document.TextDocument;
+import Lessons.OOP.Lesson01.Ex008SaveFormatFile.Document.TextDocument;
 
 import java.io.FileWriter;
 import java.io.IOException;

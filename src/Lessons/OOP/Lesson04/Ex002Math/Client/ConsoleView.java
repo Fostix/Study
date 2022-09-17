@@ -1,6 +1,6 @@
 package Lessons.OOP.Lesson04.Ex002Math.Client;
 
-import Lesson04.Ex002Math.Core.Views.View;
+import Lessons.OOP.Lesson04.Ex002Math.Core.Views.View;
 
 import java.util.Scanner;
 

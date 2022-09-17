@@ -1,6 +1,6 @@
 package Lessons.OOP.Lesson04.Ex001Phonebook.Core.Infrastructure;
 
-import Lesson04.Ex001Phonebook.Core.Models.Contact;
+import Lessons.OOP.Lesson04.Ex001Phonebook.Core.Models.Contact;
 
 import java.util.ArrayList;
 import java.util.List;

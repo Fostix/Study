@@ -1,7 +1,6 @@
 package Lessons.OOP.Lesson01.Ex004;
 
-import Lesson01.Ex004.*;
-import Lesson01.Ex004.alliance.*;
+import Lessons.OOP.Lesson01.Ex004.alliance.Dwarf;
 
 public class Program {
     public static void main(String[] args) {

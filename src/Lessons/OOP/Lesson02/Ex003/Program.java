@@ -1,6 +1,6 @@
 package Lessons.OOP.Lesson02.Ex003;
 
-import Lesson02.Ex003.ExBeverage.Coffee;
+import Lessons.OOP.Lesson02.Ex003.ExBeverage.Coffee;
 
 public class Program {
     public static void main(String[] args) {

@@ -1,7 +1,9 @@
 package Lessons.OOP.Lesson01.Ex008SaveFormatFile;
 
-import Lesson01.Ex008SaveFormatFile.Applications.Notepad;
-import Lesson01.Ex008SaveFormatFile.Format.*;
+import Lessons.OOP.Lesson01.Ex008SaveFormatFile.Applications.Notepad;
+import Lessons.OOP.Lesson01.Ex008SaveFormatFile.Format.Doc;
+import Lessons.OOP.Lesson01.Ex008SaveFormatFile.Format.Md;
+import Lessons.OOP.Lesson01.Ex008SaveFormatFile.Format.Txt;
 
 public class Program {
     public static void main(String[] args) {

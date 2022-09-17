@@ -1,12 +1,12 @@
 package Lessons.OOP.Lesson04.Ex002Math.Core.Presenter;
 
-import Lesson04.Ex002Math.Core.Infrastructure.Generator;
-import Lesson04.Ex002Math.Core.Model.Model;
-import Lesson04.Ex002Math.Core.Views.View;
-import Lesson04.Ex002Math.Mathematics.Exceptions.UnacceptableValueException;
-import Lesson04.Ex002Math.Mathematics.Shapes.Circle;
-import Lesson04.Ex002Math.Mathematics.Shapes.Rectangle;
-import Lesson04.Ex002Math.Mathematics.Shapes.Shape;
+import Lessons.OOP.Lesson04.Ex002Math.Core.Infrastructure.Generator;
+import Lessons.OOP.Lesson04.Ex002Math.Core.Model.Model;
+import Lessons.OOP.Lesson04.Ex002Math.Core.Views.View;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Exceptions.UnacceptableValueException;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Shapes.Circle;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Shapes.Rectangle;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Shapes.Shape;
 
 public class Presenter {
     Model model;

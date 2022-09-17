@@ -1,7 +1,7 @@
 package Lessons.OOP.Lesson02.Ex002;
 
 
-import Lesson02.Ex002.ExBeverage.*;
+import Lessons.OOP.Lesson02.Ex002.ExBeverage.*;
 
 import java.util.ArrayList;
 import java.util.Iterator;

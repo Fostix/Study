@@ -1,6 +1,6 @@
 package Lessons.OOP.Lesson04.Ex001Phonebook.UI;
 
-import Lesson04.Ex001Phonebook.Core.MVP.View;
+import Lessons.OOP.Lesson04.Ex001Phonebook.Core.MVP.View;
 
 import java.util.Scanner;
 

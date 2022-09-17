@@ -1,7 +1,7 @@
 package Lessons.OOP.Lesson01.Ex008SaveFormatFile.Applications;
 
-import Lesson01.Ex008SaveFormatFile.Document.TextDocument;
-import Lesson01.Ex008SaveFormatFile.Format.TextFormat;
+import Lessons.OOP.Lesson01.Ex008SaveFormatFile.Document.TextDocument;
+import Lessons.OOP.Lesson01.Ex008SaveFormatFile.Format.TextFormat;
 
 import java.util.ArrayList;
 import java.util.List;

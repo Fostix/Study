@@ -1,11 +1,11 @@
 package Lessons.OOP.Lesson01.Ex007.v1;
 
-import Lesson01.Ex007.v1.Healers.Druid;
-import Lesson01.Ex007.v1.Healers.Healer;
-import Lesson01.Ex007.v1.Healers.Shaman;
-import Lesson01.Ex007.v1.Warriors.Knight;
-import Lesson01.Ex007.v1.Warriors.Paladin;
-import Lesson01.Ex007.v1.Warriors.Warrior;
+import Lessons.OOP.Lesson01.Ex007.v1.Healers.Druid;
+import Lessons.OOP.Lesson01.Ex007.v1.Healers.Healer;
+import Lessons.OOP.Lesson01.Ex007.v1.Healers.Shaman;
+import Lessons.OOP.Lesson01.Ex007.v1.Warriors.Knight;
+import Lessons.OOP.Lesson01.Ex007.v1.Warriors.Paladin;
+import Lessons.OOP.Lesson01.Ex007.v1.Warriors.Warrior;
 
 import java.util.ArrayList;
 import java.util.List;

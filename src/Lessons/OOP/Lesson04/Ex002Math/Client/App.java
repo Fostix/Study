@@ -1,11 +1,11 @@
 package Lessons.OOP.Lesson04.Ex002Math.Client;
 
 
-import Lesson04.Ex002Math.Core.Model.Model;
-import Lesson04.Ex002Math.Core.Presenter.Presenter;
-import Lesson04.Ex002Math.Core.Views.View;
-import Lesson04.Ex002Math.Mathematics.CalculateArea.CalculateArea;
-import Lesson04.Ex002Math.Mathematics.Exceptions.UnacceptableValueException;
+import Lessons.OOP.Lesson04.Ex002Math.Core.Model.Model;
+import Lessons.OOP.Lesson04.Ex002Math.Core.Presenter.Presenter;
+import Lessons.OOP.Lesson04.Ex002Math.Core.Views.View;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.CalculateArea.CalculateArea;
+import Lessons.OOP.Lesson04.Ex002Math.Mathematics.Exceptions.UnacceptableValueException;
 
 public class App {
     Presenter p;
