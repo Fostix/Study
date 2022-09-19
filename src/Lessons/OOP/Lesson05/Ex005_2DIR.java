@@ -1,5 +1,13 @@
 package Lessons.OOP.Lesson05;
 
+// Dependency inversion principle
+// Принцип инверсии зависимостей
+// модули высокого уровня не должны зависеть
+// от модулей нижнего уровня.
+// И те, и другие должны зависеть от абстракций.
+// абстракции не должны зависеть от деталей.
+// Детали должны зависеть от абстракций.
+
 public class Ex005_2DIR {
     public static void main(String[] args) {
         BookDIP bookDIP = new BookDIP(new ConsoleViewDIP());
