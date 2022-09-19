@@ -30,17 +30,47 @@ public class Model {
             File file = new File(path);
             FileReader fr = new FileReader(file);
             BufferedReader reader = new BufferedReader(fr);
-            String fname = reader.readLine();
-            while (fname != null) {
+//            String fname = reader.readLine();
+//            while (fname != null) {
+//                String lname = reader.readLine();
+//                String description = reader.readLine();
+////                System.out.println(phone.charAt(0) + "  = here test");
+//                String phone = reader.readLine();
+//                if (phone.charAt(0) == '*') {
+//                    this.currentBook.add(new Contact(fname, lname, description, phone));
+//                } else {
+//                    this.currentBook.add(new Contact(fname, lname, description));
+//                }
+//                fname = reader.readLine();
+//            }
+            String fname;
+            do {
+                fname = reader.readLine();
                 String lname = reader.readLine();
                 String description = reader.readLine();
-                this.currentBook.add(new Contact(fname, lname, description));
-                fname = reader.readLine();
-            }
+//              System.out.println(phone.charAt(0) + "  = here test");
+                String check = reader.readLine(); // here problem!!
+                System.out.println(check);
+                checkDop(check);
+
+                if (check.charAt(0) == '*') {
+                    this.currentBook.add(new Contact(fname, lname, description, check));
+                } else {
+                    this.currentBook.add(new Contact(fname, lname, description));
+                }
+            } while (fname != null);
             reader.close();
             fr.close();
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    public void checkDop(String check) {
+        char j = check.charAt(0);
+        switch (j) {
+            case 'p':
+
         }
     }
 
@@ -51,6 +81,7 @@ public class Model {
                 writer.append(String.format("%s\n", contact.firstName));
                 writer.append(String.format("%s\n", contact.lastName));
                 writer.append(String.format("%s\n", contact.description));
+                // writer.append(String.format("%s\n", contact.phone)); // think
             }
             writer.flush();
             writer.close();

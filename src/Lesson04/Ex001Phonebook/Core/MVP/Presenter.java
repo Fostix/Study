@@ -23,11 +23,13 @@ public class Presenter {
             view.setFirstName(contact.firstName);
             view.setLastName(contact.lastName);
             view.setDescription(contact.description);
+            if (contact.checkPhone())
+                view.setPhoneNumber(contact.phone);
         }
     }
 
     public void add() {
-        model.currentBook().add(new Contact(view.getFirstName(), view.getLastName(), view.getDescription()));
+        model.currentBook().add(new Contact(view.getFirstName(), view.getLastName(), view.getDescription()));// email // maybe here add for show
     }
 
     public void remove() {
@@ -64,6 +66,8 @@ public class Presenter {
                 view.setFirstName(contact.firstName);
                 view.setLastName(contact.lastName);
                 view.setDescription(contact.description);
+                if (contact.checkPhone())
+                    view.setPhoneNumber(contact.phone);
             }
         }
     }
@@ -76,6 +80,8 @@ public class Presenter {
                 view.setFirstName(contact.firstName);
                 view.setLastName(contact.lastName);
                 view.setDescription(contact.description);
+                if (contact.checkPhone())
+                    view.setPhoneNumber(contact.phone);
             }
         }
     }

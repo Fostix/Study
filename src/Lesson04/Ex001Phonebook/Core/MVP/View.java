@@ -7,5 +7,7 @@ public interface View {
     void setLastName(String value);
     String getDescription();
     void setDescription(String value);
+
+    void setPhoneNumber(String value);
     // need add more
 }

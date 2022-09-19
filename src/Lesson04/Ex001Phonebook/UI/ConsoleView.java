@@ -13,7 +13,7 @@ public class ConsoleView implements View {
 
     @Override
     public String getFirstName() {
-        System.out.printf("FirstName: ");
+        System.out.print("FirstName: ");
         return in.nextLine();
     }
 
@@ -24,7 +24,7 @@ public class ConsoleView implements View {
 
     @Override
     public String getLastName() {
-        System.out.printf("LastName: ");
+        System.out.print("LastName: ");
         return in.nextLine();
     }
 
@@ -35,12 +35,17 @@ public class ConsoleView implements View {
 
     @Override
     public String getDescription() {
-        System.out.printf("Description: ");
+        System.out.print("Description: ");
         return in.nextLine();
     }
 
     @Override
     public void setDescription(String value) {
         System.out.printf("Description: %s\n", value);
+    }
+
+    @Override
+    public void setPhoneNumber(String value) {
+        System.out.printf("Phone: %s\n", value);
     }
 }

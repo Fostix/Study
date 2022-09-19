@@ -8,7 +8,6 @@ public class NewConsoleView extends ConsoleView{
     @Override
     public void setDescription(String value) {
         super.setDescription(value);
-        System.out.println();
     }
 
 }
