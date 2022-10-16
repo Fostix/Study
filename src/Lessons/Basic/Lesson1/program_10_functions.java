@@ -17,6 +17,4 @@ public class program_10_functions {
         System.out.println(factor(5)); // 120.0
         lib.helloHelloTest();
     }
-
-
 }

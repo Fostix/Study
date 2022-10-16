@@ -1,0 +1,4 @@
+Oct 05, 2022 4:02:42 PM Lessons.Basic.Lesson2.program_7_logging main
+WARNING: Тестовое логирование 1
+Oct 05, 2022 4:02:42 PM Lessons.Basic.Lesson2.program_7_logging main
+INFO: Тестовое логирование 2

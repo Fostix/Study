@@ -26,8 +26,6 @@ public class program_5_array {
 
         System.out.println("----------------------------------------");
 
-
-
         // Массивы массивов ???
         int[][] arr3 = new int[3][5];
 
@@ -37,8 +35,5 @@ public class program_5_array {
             }
             System.out.println();
         }
-
-
-
     }
 }

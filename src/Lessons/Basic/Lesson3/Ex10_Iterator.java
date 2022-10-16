@@ -12,7 +12,6 @@ public class Ex10_Iterator {
             System.out.println(item);
         }
 
-
         Iterator<Integer> col = list.iterator();
         System.out.println();
 

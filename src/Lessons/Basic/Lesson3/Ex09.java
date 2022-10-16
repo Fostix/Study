@@ -12,7 +12,6 @@ public class Ex09 {
         List<Character> list2 = List.copyOf(list1);
         System.out.println(list2);
 
-
         Character   value1 = null;
         List<Character> list3 = new ArrayList<Character>();
         list3.add('A');

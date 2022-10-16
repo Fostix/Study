@@ -15,12 +15,9 @@ public class Ex06_ArrayList {
             System.out.println(o.getClass().getSimpleName()); }
         System.out.println(System.nanoTime() - time + " - time1");
 
-
-
-
         long time1 = System.nanoTime();
-        ArrayList<Integer> list1 = new ArrayList<Integer>(); // Сырой тип, не указан явный тип. Неявное преобразование к object.
-        list1.add(2809); // int преобразует в тип Object тратится больше времени
+        ArrayList<Integer> list1 = new ArrayList<Integer>();
+        list1.add(2809);
         list1.add(324);
         //list1.add("list line");
 

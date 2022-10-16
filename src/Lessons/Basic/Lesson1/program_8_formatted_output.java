@@ -12,12 +12,10 @@ public class program_8_formatted_output {
         String q = s + a1;  // 4 строки
         System.out.println(q);
 
-
         int a2 = 1, b2 = 2;
         int c2 = a2 + b2;
         String res2 = a2 + " + " + b2 + " = " + c2;
         System.out.println(res2);
-
 
 //        %d: целочисленных значений
 //        %x: для вывода шестнадцатеричных чисел
@@ -26,7 +24,6 @@ public class program_8_formatted_output {
 //        %c: для вывода одиночного символа
 //        %s: для вывода строковых значений
 
-
         float pi = 3.1415f;
         System.out.printf("%f\n", pi); // 3,141500
         System.out.printf("%.2f\n", pi); // 3,14
@@ -34,8 +31,5 @@ public class program_8_formatted_output {
         System.out.printf("%e\n", pi); // 3,141500e+00
         System.out.printf("%.2e\n", pi); // 3,14e+00
         System.out.printf("%.3e\n", pi); // 3,141e+00
-
-
-
     }
 }

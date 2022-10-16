@@ -1,6 +1,5 @@
 package Lessons.Basic.Lesson2;
 
-
 import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
@@ -10,10 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-
-
 public class program_6_bFile {
-
     static ByteOrder bOrder = ByteOrder.LITTLE_ENDIAN;
     static Map<String, String> data = new HashMap<>();
     static Charset charset = StandardCharsets.UTF_8;
@@ -77,7 +73,7 @@ public class program_6_bFile {
         byte out[] = new byte[4];
         int i = in.read(out);
         if (i != 4)
-            throw new IOException("EError read file");
+            throw new IOException("Error read file");
         return ByteBuffer.wrap(out).order(bOrder).getInt();
     }
 
@@ -112,7 +108,5 @@ public class program_6_bFile {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
-
 }

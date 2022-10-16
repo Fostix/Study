@@ -18,8 +18,5 @@ public class program_6_transformation {
 
         // int[] a1 = new int[10];
         // double[] d1 = a1; // ИЗУЧАЕМ ковариантность и контравариантность
-
-
-
     }
 }

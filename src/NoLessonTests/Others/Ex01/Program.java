@@ -1,24 +1,47 @@
-package NoLessonTests.Ex00;
+package NoLessonTests.Others.Ex01;
 
 import java.util.ArrayList;
 
 public class Program {
     public static void main(String[] args) {
         // new Human(new Cat()).call();
-        new Human(new Cat(), new Dog(), new Dog()).call();
+        new Human(new Cat(new NewMeow()), new Cat(new Meow()), new Dog(), new Dog()).call();
     }
 }
 
-abstract class Animal { // abstract для того то бы невозможно было создать животное типа животное
+abstract class Animal {
     abstract public void voice();
+}
 
+interface Voice {
+    void voice();
+}
+
+class Meow implements Voice {
+    @Override
+    public void voice() {
+        System.out.println("meow");
+    }
+}
+
+class NewMeow implements Voice {
+    @Override
+    public void voice() {
+        System.out.println("new meow");
+    }
 }
 
 class Cat extends Animal{
     String name;
+    Voice v;
+
 
     void meow() {
-        System.out.println("meow");
+        v.voice();
+    }
+
+    public Cat(Voice v) {
+        this.v = v;
     }
 
     @Override

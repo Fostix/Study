@@ -26,7 +26,6 @@ public class program_4_files {
         finally
         { System.out.println("finally"); }
 
-
         try {
             String pathProject = System.getProperty("user.dir");
             String pathFile = pathProject.concat("/file.txt");

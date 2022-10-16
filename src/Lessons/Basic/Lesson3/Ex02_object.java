@@ -8,7 +8,6 @@ public class Ex02_object {
         System.out.println(Sum(1.2, 2.1));
         System.out.println(Sum("text", "text2"));
     }
-
     //
     static Object Sum(Object a, Object b) {
         if(a instanceof  Double && b instanceof Double) {
@@ -16,6 +15,5 @@ public class Ex02_object {
         } else if (a instanceof Integer && b instanceof Integer) {
             return (Object) ((Integer) a + (Integer) b);
         } else return 0;
-
     }
 }

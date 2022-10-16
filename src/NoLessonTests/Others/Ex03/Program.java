@@ -1,11 +1,11 @@
-package NoLessonTests.Ex01;
+package NoLessonTests.Others.Ex03;
 
 import java.util.ArrayList;
 
 public class Program {
     public static void main(String[] args) {
         // new Human(new Cat()).call();
-        new Human(new Cat(new NewMeow()), new Cat(new Meow()), new Dog(), new Dog()).call();
+        new Human(new Cat(new NewMeow()), new Cat(new Meow(new FileTerminal())), new Dog(), new Dog()).call();
     }
 }
 
@@ -17,14 +17,42 @@ interface Voice {
     void voice();
 }
 
-class Meow implements Voice {
+interface CatVoice extends Voice{
+    void voice();
+}
+
+interface DogVoice extends Voice{
+}
+interface View {
+    void PrintLn(String f);
+}
+
+
+class Terminal implements View {
     @Override
-    public void voice() {
-        System.out.println("meow");
+    public void PrintLn(String f) {
+        System.out.println(f);
+    }
+}
+class FileTerminal implements View {
+    @Override
+    public void PrintLn(String f) {
+        System.out.println(f);
     }
 }
 
-class NewMeow implements Voice {
+class Meow implements CatVoice {
+    View v;
+    public Meow(View v) {
+        this.v = v;
+    }
+    @Override
+    public void voice() {
+        v.PrintLn("meow");
+    }
+}
+
+class NewMeow implements DogVoice {
     @Override
     public void voice() {
         System.out.println("new meow");

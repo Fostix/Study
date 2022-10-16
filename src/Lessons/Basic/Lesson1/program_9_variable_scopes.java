@@ -11,7 +11,5 @@ public class program_9_variable_scopes {
         }
         int a = 675;
         System.out.println(a);
-
-
     }
 }

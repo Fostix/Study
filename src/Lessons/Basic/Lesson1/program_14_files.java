@@ -18,7 +18,6 @@ public class program_14_files {
             System.out.println(ex.getMessage());
         }
 
-
         FileReader fr = new FileReader("file.txt");
         int c;
         while ((c = fr.read()) != -1) {
@@ -36,7 +35,5 @@ public class program_14_files {
             System.out.printf("== %s ==\n", str);
         }
         br.close();
-
-
     }
 }

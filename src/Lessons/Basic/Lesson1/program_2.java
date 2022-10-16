@@ -17,13 +17,11 @@ public class program_2 {
         System.out.println(e);
         System.out.println(pi);
 
-
         char ch = '{';// char ch = 123; неявное преобразование в другой тип данных останется {.
         System.out.println(ch);
 
         int a = 12;
         double d = a; // помещается но наоборот a = d; нет понадобится преобразование.
-
 
         // ---------------------------------------
         boolean flag1 = 123 <= 234;
@@ -36,16 +34,11 @@ public class program_2 {
         boolean f = true | false;
         System.out.println(f);
 
-
-
-
         // ------------------------------------------------
         String msg = "Hello world";
 
         System.out.println(msg);
 
-
         var i = 123;  // don't work why???
-
     }
 }

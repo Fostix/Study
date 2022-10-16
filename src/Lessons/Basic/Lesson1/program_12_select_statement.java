@@ -20,7 +20,5 @@ public class program_12_select_statement {
                 System.out.println("hello");
                 //break; // will do everything case if not break!!!
         }
-
-
     }
 }

@@ -1,4 +1,4 @@
-package NoLessonTests.Ex03;
+package NoLessonTests.Others.Ex02;
 
 import java.util.ArrayList;
 
@@ -9,7 +9,7 @@ public class Program {
     }
 }
 
-abstract class Animal { // abstract для того то бы невозможно было создать животное типа животное
+abstract class Animal {
     abstract public void voice();
 }
 
@@ -17,12 +17,6 @@ interface Voice {
     void voice();
 }
 
-interface CatVoice extends Voice{
-    void voice();
-}
-
-interface DogVoice extends Voice{
-}
 interface View {
     void PrintLn(String f);
 }
@@ -41,7 +35,7 @@ class FileTerminal implements View {
     }
 }
 
-class Meow implements CatVoice {
+class Meow implements Voice {
     View v;
     public Meow(View v) {
         this.v = v;
@@ -52,7 +46,7 @@ class Meow implements CatVoice {
     }
 }
 
-class NewMeow implements DogVoice {
+class NewMeow implements Voice {
     @Override
     public void voice() {
         System.out.println("new meow");

@@ -12,7 +12,6 @@ public class program_7_scanner {
 
         System.out.println();
 
-
         // Scanner iScanner = new Scanner(System.in);
         System.out.printf("int a: ");
         int x = iScanner.nextInt();
@@ -23,7 +22,6 @@ public class program_7_scanner {
 
         System.out.println();
 
-
         //Scanner iScanner = new Scanner(System.in);
         System.out.printf("int a: ");
         boolean flag = iScanner.hasNextInt(); // flag test if else!!!!
@@ -31,6 +29,5 @@ public class program_7_scanner {
         int i = iScanner.nextInt();
         System.out.println(i);
         iScanner.close();
-
     }
 }

@@ -18,7 +18,5 @@ public class program_1_StringAndStringBuilder {
             sb.append("+");
         }
         System.out.println(System.currentTimeMillis() - time1);
-
-
     }
 }

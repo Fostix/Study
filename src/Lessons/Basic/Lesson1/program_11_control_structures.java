@@ -12,15 +12,12 @@ public class program_11_control_structures {
         }
         System.out.println(c);
 
-
         int a1 = 1;
         int b1 = 2;
         int c1 = 0;
         if (a1 > b1) c1 = a1;
         if (b1 > a1) c1 = b1;
         System.out.println(c1);
-
-
 
         int a2 = 1;
         int b2 = 2;

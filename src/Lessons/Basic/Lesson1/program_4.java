@@ -19,7 +19,6 @@ public class program_4 {
         System.out.println(a);
         System.out.println(++a); // Prefix increment.
 
-
         int b = 123;
         b = b-- - --b;
         System.out.println(b);
@@ -58,7 +57,6 @@ public class program_4 {
         // 010
         // 000
 
-
         int u = 5;
         int p = 5;
         System.out.println(u & p);
@@ -71,13 +69,11 @@ public class program_4 {
         System.out.println(g & j);
         System.out.println(g && j);
 
-
         String s1 = "qwer";
         boolean b1 = s1.length() >= 5 && s1.charAt(4) == '1';
         // boolean b2 = s1.length() >= 5 & s1.charAt(4) == '1';
 
         System.out.println(b1);
         // System.out.println(b2); error
-
     }
 }
