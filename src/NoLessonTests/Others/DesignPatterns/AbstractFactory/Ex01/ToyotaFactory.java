@@ -10,4 +10,9 @@ public class ToyotaFactory implements CarsFactory{
     public Coupe createCoupe() {
         return new ToyotaCoupe();
     }
+
+    @Override
+    public SUV createSUV() {
+        return new ToyotaSUV();
+    }
 }

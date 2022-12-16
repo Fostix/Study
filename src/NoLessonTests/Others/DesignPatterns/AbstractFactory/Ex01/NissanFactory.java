@@ -10,4 +10,9 @@ public class NissanFactory implements CarsFactory{
     public Coupe createCoupe() {
         return new NissanCoupe();
     }
+
+    @Override
+    public SUV createSUV() {
+        return new NissanSUV();
+    }
 }

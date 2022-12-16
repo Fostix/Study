@@ -1,0 +1,26 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“º÷˜şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒŠº¯ÿÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(¿±»ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿±»ıÿÿÿÿ
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ğœ§s
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(œî€ÿÿÿÿÿÿ
+;
+java:S3457"%String contains no format specifiers.(ïÏªî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïÏªî
+P	java:S125"<This block of commented-out lines of code should be removed.(—üŸV
+;
+java:S3457"%String contains no format specifiers.(îù“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îù“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ”ı´ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(œî€ÿÿÿÿÿÿ
+;
+java:S3457"%String contains no format specifiers.(ïÏªî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïÏªî
+P	java:S125"<This block of commented-out lines of code should be removed.(—üŸV
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ò‰»
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
