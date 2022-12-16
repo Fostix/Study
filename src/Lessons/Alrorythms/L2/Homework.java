@@ -4,10 +4,8 @@ public class Homework {
     public static void main(String[] args) {
         Try hereFillArrayFunctionHave = new Try();
         int lengthArray = 100000000;
-        int countTests = 1000;
 
         int[] arr = new int[lengthArray];
-        boolean[] check = new boolean[countTests];
         hereFillArrayFunctionHave.fillArray(arr);
 
 
@@ -55,52 +53,4 @@ public class Homework {
             heapify(arr, i, 0);
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-    // TODO bad
-
-//    static void heapify(int[] a, int i) {
-//        int l = a[i * 2];
-//        int r = a[i * 2 + 1];
-//        int largest = a.length;
-//        if (l <= a.length && a[l] > a[i])
-//            largest = l;
-//        else
-//            largest = i;
-//        if (r <= a.length && a[r] > a[largest])
-//            largest = r;
-//        if (largest != i) {
-//            int temp = a[i];
-//            a[i] = a[largest];
-//            a[largest] = temp;
-//        }
-//    }
-//
-//    static void buildMaxHeap(int[] a) {
-//        int n = a.length;
-//        for (int i = n / 2; i < 0; i--) {
-//            heapify(a, i);
-//        }
-//    }
-//
-//    static void heapsort(int[] a) {
-//        int n = a.length;
-//        for (int i = n; i < 0; i-=2) {
-//            int temp = a[1];
-//            a[1] = a[i];
-//            a[i] = temp;
-//
-//            heapify(a, 1);
-//        }
-//    }
 }
