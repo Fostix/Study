@@ -5,3 +5,15 @@ l
 <src/Lessons/Basic/Lesson1/program_11_control_structures.java,5/a/5a9b5449a9136f5692ce2ff14663d2988216741a
 `
 0src/Lessons/Basic/Lesson1/program_7_scanner.java,e/5/e5489bc1160966987cc47f3d80fc9f1419cfa18c
+S
+#src/Lessons/Alrorythms/L4/Tree.java,2/d/2d0e0f8f8189e78d5d9f80abba8720390f18501e
+R
+"src/Lessons/Alrorythms/L2/Try.java,1/2/126e5f5b36f7202307b4aecc9a8278a0dbf208b3
+Z
+*src/Lessons/Alrorythms/L1/ExOnSeminar.java,d/6/d6c51bab8193e91f0ae11db44646916f88f4da1e
+X
+(src/Lessons/Patters/MVP/Model/Cache.java,9/3/9348445b18f2ddc974783bdd943adb53ff1c10f7
+X
+(src/Lessons/Patters/MVP/Model/Model.java,f/1/f148e049e3f60d14633f2c72a02684087e4595b1
+Q
+!src/Lessons/Alrorythms/L1/Ex.java,e/9/e9d7841af1bc4bc2c8dba2773958adda1ba3d955
