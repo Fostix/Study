@@ -63,7 +63,7 @@ public class HashTable {
                     cur = cur.next;
                 }
             }
-            return true;
+            return false;
         }
     }
 

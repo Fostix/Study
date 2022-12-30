@@ -26,12 +26,10 @@ public class BinaryTree {
             return null;
         if (node.value == value)
             return node;
-//        if (cur.value < value) {
-//            return recFind(node.right, value);
-//        } else {
-//            return recFind(node.left, value);
-//            }
-//        }
-        return null;
+        if (node.value < value) {
+            return recFind(node.right, value);
+        } else {
+            return recFind(node.left, value);
+        }
     }
 }
