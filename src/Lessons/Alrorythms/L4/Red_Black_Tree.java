@@ -8,7 +8,10 @@ public class Red_Black_Tree {
     public static void main(String[] args) {
         Red_Black_Tree tree = new Red_Black_Tree();
         for (int i = 0; i < 100; i++) {
-             tree.add(i);
+            tree.add(i);
+            for (int j = 0; j < i; j++) {
+                System.out.println(tree.find(j));
+            }
         }
     }
     Node root;
@@ -17,6 +20,11 @@ public class Red_Black_Tree {
         int value;
         Node left, right;
         Color color;
+
+        @Override
+        public String toString() {
+            return String.format("value: %d, color: %s", value,  color);
+        }
     }
 
     public boolean add(int value) {
@@ -122,13 +130,6 @@ public class Red_Black_Tree {
             }
         }
         return null;
-    }
-
-    @Override
-    public String toString() {
-        return "Red_Black_Tree{" +
-                "root=" + root.value +
-                '}';
     }
 }
 
