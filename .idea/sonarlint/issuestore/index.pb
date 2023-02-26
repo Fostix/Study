@@ -57,8 +57,6 @@ d
 4src/Lessons/Exceptions/Lesson3/TryWithResources.java,e/5/e5802f8843e9169e0cf9cacf963a4ca989410e22
 h
 8src/Lessons/Exceptions/Lesson3/TestExceptionChecked.java,6/8/6882af402e0ee23fdc57ffaca4216e935d429916
-v
-Fsrc/NoLessonTests/Algorithms/Tasks/findSecondMaxNumberInArrayTest.java,8/5/85f9e7513f9a685e2f93c8bfcaeed46bace8fce7
 =
 src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
 †
@@ -89,3 +87,9 @@ a
 1src/NoLessonTests/HFDP2E/Chapter1/HAS_A/Legs.java,5/8/583574fb94df0d50d54317a32f48aaf89b107c63
 q
 Asrc/NoLessonTests/HFDP2E/Chapter2/WeatherStation/WeatherData.java,3/d/3d3c9d0e3168320a28d5322a330a1a44156bc8aa
+~
+Nsrc/NoLessonTests/HFDP2E/Chapter2/WeatherStation/currentConditionsDisplay.java,7/b/7b3b91facc51a63f8f42111a233924b84e283514
+u
+Esrc/NoLessonTests/HFDP2E/Chapter2/WeatherStation/forecastDisplay.java,a/2/a28129de5533f5b51dc3d4e22e9540b054d8a308
+w
+Gsrc/NoLessonTests/HFDP2E/Chapter2/WeatherStation/statisticsDisplay.java,d/1/d1480535ed4c026c4fe8c26f10e4a7b96eaefdcc

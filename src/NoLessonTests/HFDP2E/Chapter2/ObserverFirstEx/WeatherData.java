@@ -1,34 +1,56 @@
 package NoLessonTests.HFDP2E.Chapter2.ObserverFirstEx;
 
-public class WeatherData implements Subject{
-    @Override
-    public void registerObserver() {
+import java.util.ArrayList;
+import java.util.List;
 
+public class WeatherData implements Subject{
+
+    private List<Observer> observers;
+    private float temperature;
+    private float humidity;
+    private float pressure;
+
+    public WeatherData() {
+        observers = new ArrayList<Observer>();
     }
 
     @Override
-    public void removeObserver() {
+    public void registerObserver(Observer o) {
+        observers.add(o);
+    }
 
+    @Override
+    public void removeObserver(Observer o) {
+        observers.remove(o);
     }
 
     @Override
     public void notifyObservers() {
-
+        for (Observer observer : observers) {
+            observer.update(temperature, humidity, pressure);
+        }
     }
 
-    int getTemperature() {
-        return 1;
+    void measurementsChanged() {
+        notifyObservers();
     }
 
-    int getHumidity() {
-        return 1;
+    public void setMeasurements(float temperature, float humidity, float pressure) {
+        this.temperature = temperature;
+        this.humidity = humidity;
+        this.pressure = pressure;
+        measurementsChanged();
     }
 
-    int getPressure() {
-        return 1;
+    float getTemperature() {
+        return temperature;
     }
 
-    int measurementsChanged() {
-        return 1;
+    float getHumidity() {
+        return humidity;
+    }
+
+    float getPressure() {
+        return pressure;
     }
 }

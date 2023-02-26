@@ -1,0 +1,30 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ª‘Êıÿÿÿÿ8¯Ú¹–ç0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€‚›û
+ˆ
+java:S4165"fRemove this useless assignment; "pressure" already holds the assigned value along all execution paths.(ëœÊşÿÿÿÿ8ˆÒÄ–ç0
+~
+java:S4165	"bRemove this useless assignment; "temp" already holds the assigned value along all execution paths.(÷›d8ˆÒÄ–ç0
+ˆ
+java:S4165
+"fRemove this useless assignment; "humidity" already holds the assigned value along all execution paths.(Š–ˆèşÿÿÿÿ8ˆÒÄ–ç0
+^
+java:S1854"<Remove this useless assignment to local variable "pressure".(ëœÊşÿÿÿÿ8ŠÒÄ–ç0
+^
+java:S1854
+"<Remove this useless assignment to local variable "humidity".(Š–ˆèşÿÿÿÿ8ŠÒÄ–ç0
+T
+java:S1854	"8Remove this useless assignment to local variable "temp".(÷›d8ŠÒÄ–ç0
+K
+java:S1656	"/Remove or correct this useless self-assignment.(÷›d8‹ÒÄ–ç0
+Q
+java:S1656
+"/Remove or correct this useless self-assignment.(Š–ˆèşÿÿÿÿ8‹ÒÄ–ç0
+Q
+java:S1656"/Remove or correct this useless self-assignment.(ëœÊşÿÿÿÿ8ŒÒÄ–ç0
+E
+java:S1068"(Remove this unused "temp" private field.(‡õŸ8ŒÒÄ–ç0
+N
+java:S1068",Remove this unused "humidity" private field.(¯İæöÿÿÿÿÿ8ŒÒÄ–ç0
+I
+java:S1068",Remove this unused "pressure" private field.(Ï¼Çä8ŒÒÄ–ç0
