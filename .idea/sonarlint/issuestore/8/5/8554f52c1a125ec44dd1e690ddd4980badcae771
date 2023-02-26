@@ -1,0 +1,33 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãôİÈ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒŠº¯ÿÿÿÿÿ
+M
+java:S2589F"7Remove this expression which always evaluates to "true"(èŒƒ¾
+P
+java:S1854"5Remove this useless assignment to local variable "c".(ÓÙûüÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "number".(¥àÂÑ
+A
+java:S1481"+Remove this unused "number" local variable.(¥àÂÑ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¹Æ½v
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éß³ÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÆòèS
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ä¢®Ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(»óæ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
+V	java:S125$"<This block of commented-out lines of code should be removed.(â—ó¦ıÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(–÷¯
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¨”¤¦
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(íê­…
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¨ê²Ø
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(”•°›
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(áÍÕûúÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(×ß…È
+/
+java:S2178E"Correct this "&" to "&&".(×ß…È
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(èŒƒ¾
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(—Ş“
+Q	java:S125J"<This block of commented-out lines of code should be removed.(•‚‚Ğ

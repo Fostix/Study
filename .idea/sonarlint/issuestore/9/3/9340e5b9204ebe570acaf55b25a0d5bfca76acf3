@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(žçÓ¡
+K
+java:S1948"0Make "reportExporter" transient or serializable.(Ú ãžùÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ùì©Èýÿÿÿÿ

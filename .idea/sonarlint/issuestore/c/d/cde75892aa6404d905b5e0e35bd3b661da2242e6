@@ -1,0 +1,19 @@
+
+J
+java:S1066J"/Merge this if statement with the enclosing one.(ŞÜ³üÿÿÿÿ
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôˆıÿÿÿÿ
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å´ù¿
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À‰ˆ÷ùÿÿÿÿ
+U
+java:S2259S"?A "NullPointerException" could be thrown; "L" is nullable here.(î’èû
+U
+java:S2259["?A "NullPointerException" could be thrown; "R" is nullable here.(Ü½êª
+8
+java:S1659""Declare "tail" on a separate line.( ¢ÂĞ
+8
+java:S1659""Declare "prev" on a separate line.(Ô´Ä™
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(—íû
+M	java:S106{"9Replace this use of System.out or System.err by a logger.(À–Ğ;
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(áåÖ¥

@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(žçÓ¡
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(éÙƒßüÿÿÿÿ
+q
+java:S1450"VRemove the "cvImage" field and declare it as a local variable in the relevant methods.(Ï‹Ÿ–ùÿÿÿÿ
+o
+java:S1450"YRemove the "kernelSuze" field and declare it as a local variable in the relevant methods.(øÕá£
+C	java:S108")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+F
+java:S1068"+Remove this unused "cvImage" private field.(Ï‹Ÿ–ùÿÿÿÿ
+D
+java:S1068".Remove this unused "kernelSuze" private field.(øÕá£

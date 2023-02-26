@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚§Úçøÿÿÿÿ
+e	java:S116"PRename this field "TNULL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È‹µ•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç‘›·şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç‘›·şÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ç‘›·şÿÿÿÿ
+m
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(†¹¬–üÿÿÿÿ
+a
+java:S1764]"KCorrect one of the identical sub-expressions on both sides of operator "&&"(‰°ôó
+;
+java:S1659€"Declare "y" on a separate line.(õå«ñûÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(½€Ê©
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(´™Ñøÿÿÿÿ
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(Éğ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(Œ“¡Æıÿÿÿÿ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(üøŒ„ûÿÿÿÿ
+N	java:S106é"9Replace this use of System.out or System.err by a logger.(Ìğn
+W	java:S125"<This block of commented-out lines of code should be removed.(£¡Öûÿÿÿÿ

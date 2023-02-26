@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ù’µúÿÿÿÿ
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(â‡Üÿøÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "dog".(ã‰ò
+>
+java:S1481"(Remove this unused "dog" local variable.(ã‰ò
+Q
+java:S1610	"6Convert the abstract class "Animal" into an interface.(éñ·›ûÿÿÿÿ
+]
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(éñ·›ûÿÿÿÿ

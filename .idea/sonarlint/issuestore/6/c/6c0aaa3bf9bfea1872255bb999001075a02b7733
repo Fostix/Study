@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(žçÓ¡
+B
+java:S1165",Make this "illegalElementIndex" field final.(ÿ¡§Ù
+B
+java:S1165",Make this "illegalElementValue" field final.(Žé§ú
